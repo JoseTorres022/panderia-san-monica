@@ -11,7 +11,7 @@ En este proyecto se creo con las siguientes tecnologias:
 -DB Browser for SQLite: usando DBB4SQLite para gestionar nuestra base de datos, debido a que nos facilida la creación y adminsitracióN de las base de datos con SQLite. (sqlite3)
 -SQLite: nos permite almacenar información de forma sencilla, eficaz, potente, rapida y en equipos con pocas capacidades de hardare. (Asingado por el instructor)
 -Dia (Dia Diagram Editor): con este software de licencia libre, creamos nuestros diagramas para el modelo relacional de nuestra base de datos. (E-R)
-
+-API: se creo un pequeña API para la comunicación entre VisualBasic y SQLite, con ello nos referimos a CRUD.
 Dicho proyecto será actualizado y con el tiempo crecera, asi como otros proyectos.
 
 Roles e integrantes:
