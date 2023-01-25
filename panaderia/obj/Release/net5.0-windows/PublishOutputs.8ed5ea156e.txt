@@ -1,0 +1,6 @@
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Release\net5.0-windows\publish\panaderia.exe
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Release\net5.0-windows\publish\panaderia.dll
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Release\net5.0-windows\publish\panaderia.deps.json
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Release\net5.0-windows\publish\panaderia.runtimeconfig.json
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Release\net5.0-windows\publish\panaderia.pdb
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Release\net5.0-windows\publish\System.Data.SQLite.dll

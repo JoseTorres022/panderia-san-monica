@@ -1,0 +1,58 @@
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\panaderia.exe
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\panaderia.deps.json
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\panaderia.runtimeconfig.json
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\panaderia.runtimeconfig.dev.json
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\panaderia.dll
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\ref\panaderia.dll
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\panaderia.pdb
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.administracion.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.bienvenida.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.empleados.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.Resources.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.pedidos.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.productos.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.proveedores.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.sistemaprincipal.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.sucursales.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.ventas.resources
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.vbproj.GenerateResource.cache
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.AssemblyInfoInputs.cache
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.AssemblyInfo.vb
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.vbproj.CopyComplete
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.dll
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\ref\panaderia.dll
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.pdb
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.genruntimeconfig.cache
+C:\Users\Jose Torres\Documents\Panaderia\Panaderia\obj\Debug\net5.0-windows\panaderia.vbprojAssemblyReference.cache
+D:\Proyectos\VisualBasic\Panaderia\panaderia\bin\Debug\net5.0-windows\panaderia.exe
+D:\Proyectos\VisualBasic\Panaderia\panaderia\bin\Debug\net5.0-windows\panaderia.deps.json
+D:\Proyectos\VisualBasic\Panaderia\panaderia\bin\Debug\net5.0-windows\panaderia.runtimeconfig.json
+D:\Proyectos\VisualBasic\Panaderia\panaderia\bin\Debug\net5.0-windows\panaderia.runtimeconfig.dev.json
+D:\Proyectos\VisualBasic\Panaderia\panaderia\bin\Debug\net5.0-windows\panaderia.dll
+D:\Proyectos\VisualBasic\Panaderia\panaderia\bin\Debug\net5.0-windows\panaderia.pdb
+D:\Proyectos\VisualBasic\Panaderia\panaderia\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.vbproj.AssemblyReference.cache
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.administracion.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.bienvenida.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.empleados.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.Resources.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.pedidos.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.productos.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.proveedores.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.sistemaprincipal.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.sucursales.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.ventas.resources
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.vbproj.GenerateResource.cache
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.AssemblyInfoInputs.cache
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.AssemblyInfo.vb
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.vbproj.CoreCompileInputs.cache
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.vbproj.CopyComplete
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.dll
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\refint\panaderia.dll
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.pdb
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\panaderia.genruntimeconfig.cache
+D:\Proyectos\VisualBasic\Panaderia\panaderia\obj\Debug\net5.0-windows\ref\panaderia.dll

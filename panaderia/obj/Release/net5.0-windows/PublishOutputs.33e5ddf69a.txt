@@ -1,0 +1,6 @@
+C:\Users\Jose Torres\Documents\panes\panaderia.exe
+C:\Users\Jose Torres\Documents\panes\panaderia.dll
+C:\Users\Jose Torres\Documents\panes\panaderia.deps.json
+C:\Users\Jose Torres\Documents\panes\panaderia.runtimeconfig.json
+C:\Users\Jose Torres\Documents\panes\panaderia.pdb
+C:\Users\Jose Torres\Documents\panes\System.Data.SQLite.dll
